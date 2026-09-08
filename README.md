@@ -19,7 +19,7 @@ Coastal & water resources researcher working at the intersection of **hydrodynam
 
 ## Where the work actually lives
 
-Primary modeling and analysis runs on the **Auburn Easley HPC cluster**, where the D-Flow FM simulations, NetCDF post-processing, and SLURM job chains live. This GitHub account mirrors **select post-processing utilities, web tools, and scaffolding** — it is not the full pipeline. If you're a collaborator who needs access to the dissertation analysis code, reach out through LinkedIn or ORCID.
+Primary modeling and analysis runs on the **Easley HPC cluster**, where the D-Flow FM simulations, NetCDF post-processing, and SLURM job chains live. This GitHub account mirrors **select post-processing utilities, web tools, and scaffolding** — it is not the full pipeline. If you're a collaborator who needs access to the dissertation analysis code, reach out through LinkedIn or ORCID.
 
 ## Elsewhere
 
