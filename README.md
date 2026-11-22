@@ -13,7 +13,7 @@ Coastal & water resources researcher working at the intersection of **hydrodynam
 
 - **Hydrodynamic modeling:** D-Flow FM · SCHISM · HEC-RAS
 - **Scientific Python:** NumPy · xarray · NetCDF4 · scikit-learn · matplotlib
-- **HPC:** Auburn Easley cluster · SLURM · shell scripting
+- **HPC:** SLURM · shell scripting · parallel computing
 - **Geospatial:** ArcGIS Pro · ArcGIS Online / StoryMaps · QGIS · geopandas
 - **Web:** Firebase · GitHub Pages · JavaScript / CSS
 
